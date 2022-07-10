@@ -1,0 +1,133 @@
+.debath{
+  background-color: #a41f1f;
+  margin-top: 70px;
+
+  .header {
+    margin-top: 50px;
+    overflow: hidden;
+
+
+    .headerTitles {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      color: black;
+    }
+
+    .headerTitleLg {
+      padding: 5px;
+      background-color: black;
+      color: white;
+      border-radius: 50px;
+      position: relative;
+      font-size: 100px;
+
+    }
+
+    .headerImg {
+      width: 100%;
+      height: 100%;
+      margin-top: -50px;
+      object-fit: cover;
+
+      img {
+        image-rendering: -webkit-optimize-contrast;
+      }
+    }
+  }
+
+  .item {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    position: relative;
+    width: 80%;
+    height: 400px;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+
+    .left1 {
+      flex: 8;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+
+
+      .leftContainer {
+        text-align: center;
+        width: 90%;
+        height: 70%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        h1{
+          background-color: black;
+          color:white;
+        }
+        p {
+          margin-top: 20px;
+          font-size: 14px;
+          text-align: justify;
+        }
+      }
+    }
+
+    .right1 {
+      flex: 8;
+      height:100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+
+      img {
+        height: 400px;
+      }
+    }
+
+    .left2{
+      flex: 8;
+      height:100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+
+      img {
+        height: 400px;
+      }
+    }
+
+    .right2{
+      flex: 8;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+
+
+      .leftContainer {
+        width: 90%;
+        height: 70%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        text-align: center;
+        p {
+          margin-top: 20px;
+          font-size: 14px;
+          text-align: justify;
+        }
+        h1{
+          background-color: black;
+          color:white;
+        }
+      }
+    }
+  }
+}
+

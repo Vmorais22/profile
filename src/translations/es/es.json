@@ -1,0 +1,138 @@
+{
+  "topbar": {
+    "linkedin-spam": "¡Visita mi Linkedin!",
+    "email": "victormoraisllahi@gmail.com"
+  },
+  "menu": {
+    "intro": "Intro",
+    "portfolio": "Mis proyectos",
+    "works": "Recién salidos del horno",
+    "testimonials": "Novelas",
+    "contact": "Contacto"
+  },
+  "intro": {
+    "first": "Hola, me llamo",
+    "second": "Víctor Morais",
+    "third": "y soy ",
+    "textRef": {
+      "1": "Estudiante en Ingeniería Informática",
+      "2": "Desarrollador Software",
+      "3": "Escritor de novelas",
+      "4": "Apasionado de los videojuegos y el cine",
+      "5": "Nadador experimentado"
+    }
+  },
+  "portfolio": {
+    "titles": {
+      "main": "Mis proyectos",
+      "personal": "Personal",
+      "projects": "Proyectos realizados",
+      "research": "Estudios",
+      "other": "Otros"
+    }
+  },
+  "personalPortfolio": {
+    "1": {
+      "title": "Mi currículum"
+    },
+    "2": {
+      "title": "Debates"
+    }
+  },
+  "projectsPortfolio": {
+    "1": {
+      "title": "yayOS",
+      "inside": {
+        "title": "yayOS: Plataforma web interactiva de inclusión de personas de la tercera edad en las nuevas tecnologías",
+        "summary": "El objetivo de este TFG es crear una herramienta software que permita aprender a usar los aspectos más básicos de un ordenador a gente con ninguna experiencia en el uso de las nuevas tecnologías, principalmente personas mayores. La transición digital ha abandonado a este sector de la población, y los efectos se han magnificado por culpa de la pandemia y el confinamiento.",
+        "text1": "Hasta hace relativamente poco, cosa de un año, considerábamos la transformación de servicios analógicos a digitales como una mejora. Como un capricho, podríamos incluso decir. Bastó una pandemia que restringiese nuestra movilidad y que estableciera el distanciamiento social como principal mecanismo de autodefensa para que dicha opción se convirtiera en una necesidad. Y es lógico, en realidad. Es más seguro hacer cualquier trámite bancario desde el móvil que desde una oficina. Es más seguro comprar por Internet que no en un abarrotado centro comercial. Y, por descontado, es más seguro restringir cualquier trámite a través de una pantalla que no cara a cara con un funcionario. El problema surge cuando esta medida, como muchas otras, no viene acompañada de su correspondiente séquito de contramedidas y planes de contingencia. ¿La consecuencia? El incremento de la brecha digital entre los denominados nativos digitales, aquellos que hemos nacido, crecido y vivido en un mundo rodeado de constantes avances tecnológicos, y de los no tan afortunados inmigrantes digitales, aquellos que han tenido que adaptarse a este cambio y, en definitiva, a un nuevo mundo en el que vivir.",
+        "text2": "Este fue mi proyecto de final de carrera: la creación de una aplicación web hecha por y para personas de avanzada edad. Mediante un riguroso análisis de los requisitos se estableció una interfaz que respondía a las necesidades de este tipo de usuarios tanto a nivel mecánico como visual, teniendo en cuenta el posible deterioro o mermado de sus capacidades sensoriales. Una vez implementado, el producto fue sometido a un proceso cíclico de refactorización que, de nuevo, se hacía a partir del feedback obtenido de un grupo de futuros usuarios del sistema. La aplicación introduce conceptos tan básicos como el uso del teclado y el ratón, la gestión de una cuenta de correo electrónico o la búsqueda por Internet, pero también enseña conceptos más avanzados como la compra online, la realización de videollamadas, o el uso de Google Maps. El sistema está traducido al catalán, castellano e inglés, y consta de un sistema de publicación de comentarios y de envío de opiniones para que los usuarios puedan sugerir cambios o mejoras en la plataforma."
+      }
+    },
+    "2": {
+      "title": "Pockles",
+      "inside": {
+        "title": "Pockles: Red de mensajería geosocial",
+        "summary": "Pockles es una aplicación Android que permite a los usuarios publicar mensajes allá donde quieran que vayan de manera que solo los usuarios que estén cerca podrán verlos. ¡Empieza a llenar el mundo de Pocks ya mismo! En este proyecto grupal participaron: Víctor Blanco, Joan Bosch, Pau Dastis, Daniel Palomo, Joan Salvador, Sergio Vázquez y yo.",
+        "text1": "Pockles es una aplicación de mensajería geosocial nunca antes vista en el mercado que facilita la cooperación entre los usuarios permitiendo dejar mensajes en lugares en los que se encuentren de diferente índole. Cuando descubras un mensaje navegando por el mundo, además de leerlo, podrás indicar si es útil o hablar con el autor mediante la función de chat, haciendo más fácil la cooperación entre usuarios. Nuestra app también beneficiará a los comercios locales y eventos que se organicen ya que podrán publicitarse mediante el uso de los ‘pocks’, que son los mensajes. En definitiva, una aplicación pensada para cooperar y divertirse con la comunidad local.",
+        "text2": "Esta aplicación móvil pretende imitar las redes sociales que todos conocemos añadiéndoles un cambio de perspectiva y es que el usuario solo puede ver aquello que está cerca de él. Contiene todos los elementos básicos de una red social: capacidad de publicación y reacción, personalización de un perfil, adición de amistades, chats, posibilidad de reportar usos inadecuados e, incluso, un sistema de gamificación basado en logros que potencie el uso de la plataforma. Una de las últimas funcionalidades añadidas es un mapa de calor que muestra la concentración de mensajes publicados en un área. Puede ser activado cuando uno disminuye el zoom del mapa."
+      }
+    },
+    "3": {
+      "title": "Bouncing Mario",
+      "inside": {
+        "title": "Bouncig Mario",
+        "summary": "Bouncing Mario es una adaptación inspirada en el mundo de Mario Bros del conocido juego QOMP (https://store.steampowered.com/app/1066900/qomp/) que, a su vez, es una adaptación del mítico juego de la primera generación de consolas PONG (https://es.wikipedia.org/wiki/Pong). Este proyecto fue realizado con Unity y, a nivel personal, el primer videojuego plenamente funcional que he creado. Colaboró en el desarrollo de este proyecto Sergio Arcos.",
+        "text1": "El juego ofrece una experiencia en tres dimensiones de su musa, QOMP. Imita las mecánicas del juego, pero cambiando por completo su estética y ambientación. EL juego se divide en una serie de niveles y el jugador tendrá que valerse de su destreza para superarlos todos y enfrentarse al nivel final. La mecánica del juego es muy simple pues tan solo existe un movimiento posible que es invertir la velocidad de la pelota apretando SPACEBAR. ¡Buena suerte!",
+        "text2": "Todos los recursos estéticos (elementos de interacción, decoraciones y fondos) fueron generados mediante MagicaVoxel, un editor de unidades cúbicas o voxels 8-bits. Se añadieron sonidos del propio juego así como diminutos efectos de partículas del propio Unity."
+      }
+    },
+    "4": {
+      "title": "Algoritmo de detección de señales de tráfico",
+      "inside": {
+        "title": "Algoritmo de detección de señales de tráfico",
+        "summary": "Un detector de señales de tráfico a base del estudio de la composición cromática, su circularidad y la orientación de los píxeles. Proyecto realizado conjuntamente con Pau Dastis.",
+        "text1": "El objetivo de esta práctica es identificar correctamente una señal de tráfico presente en cualquier imagen de entrada de una base de datos en concreto. Aunque solo hay 43 tipos de señales a reconocer, la base de datos contiene un subconjunto de casi 40.000 imágenes. Las imágenes utilizadas para esta práctica han sido extraídas de una grabación realizada en un vehículo en marcha y las fotografías han sido tomadas desde distintos ángulos, distancias, fondos e incluso con variaciones en cuanto a la iluminación, el color y la escala se refiere. Para realizar este proyecto, extraemos las características que, a nuestro juicio, nos parezcan las más discriminantes con el fin de, mediante un clasificador, poder razonar y decidir a qué señal pertenecen los datos que observamos en dichos descriptores. Usaremos un conjunto de imágenes para entrenar al sistema y otro para testearlo (las imágenes que usaremos para hacer el test no habrán sido procesadas antes por el sistema). Esta práctica se desarrollará con el sistema de cómputo genérico MATLAB.",
+        "text2": "Las imágenes son siempre sometidas al mismo proceso. Primero se elimina el fondo a partir del cálculo de las profundidades de la imagen así como de sus relieves. Una vez aislada la señal, se perciben los cuatro colores más presentes y, en base a unos lindares establecidos, se asignan etiquetas que definan el color primario o secundario que es. De esta forma evitamos la influencia de factores lumínicos. Por último, se desarrolla un histograma de orientaciones que defina la forma de la señal y la de los elementos que contiene. De esta forma se obtiene el vector de características que, finalmente, el sistema utilizará para detectar qué señal es."
+      }
+    },
+    "5": {
+      "title": "Hacker News",
+      "inside": {
+        "title": "Recreación del foro web Hacker News",
+        "summary": "Hacker News es un sitio web de noticias sociales que se centra en la informática y el espíritu empresarial. El objetivo de este proyecto fue simplemente el de recrear toda sus funcionalidades y diseño. Práctica desarrollado junto con Víctor Blanco, Marc Bofill y Segio Vázquez.",
+        "text1": "Una práctica universitaria que permitió trabajar por primera vez con contenido dinámico como la publicación y reacción a posts y comentarios, la creación de sistemas de gestión de bases de datos y de identificación y la edición de contenido subidos a servidores.",
+        "text2": "Hacker News (a veces abreviado como HN) es un sitio web de noticias sociales que se centra en la informática y el espíritu empresarial. Este proyecto es una copia del verdadero Hacker News tanto de su apariencia como a nivel funcional. La intención era recrear una comunidad similar a los primeros días de Reddit. Sin embargo, a diferencia de Reddit, donde los nuevos usuarios pueden votar inmediatamente tanto a favor como en contra del contenido, Hacker News no permite a los usuarios votar en contra del contenido hasta que hayan acumulado 501 puntos de \"karma\". Los puntos de karma se calculan como el número de votos positivos que ha recibido el contenido de un usuario determinado menos el número de votos negativos. Asimismo, no se permite \"marcar\" los comentarios hasta que el usuario tenga 30 puntos de karma."
+      }
+    },
+    "6": {
+      "title": "Quality Of Experience Meter",
+      "inside": {
+        "title": "Quality Of Experience Meter: Analizando la calidad del streaming en teléfonos móviles.",
+        "summary": "Proyecto realizado en colaboración con Telefónica y en el que participaron Víctor Blanco, Sergio Vázquez y yo mismo. Su objetivo era desarrollar una herramienta que permitiera la recolección automática de la experiencia del usuario al visualizar contenido en streaming para mejorar los servicios que ofrecía la operadora.",
+        "text1": "En un mundo tan informatizado estamos más que acostumbrados a que nos pregunten nuestra opinión sobre un servicio que acabamos de usar. Y no solo me refiero a, por ejemplo, las videollamadas, las encuestas de atención al cliente o la reviews de un producto comprado. Encontramos esas mismas peticiones de feedback en ámbitos no tecnológicos como los supermercados, tiendas, hostelería, gimnasios e incluso transporte público. Todas ellas, en general, comparten un mismo factor y es que se producen después de haber probado, comprado o usado el producto en cuestión. A veces mucho después. Eso da la sensación al usuario de que enviar feedback no le aporta realmente nada y que su opinión no va a hacer que el sistema mejore.",
+        "text2": "La aplicación permite a los usuarios mandar feedback de la calidad de su servicio de streaming en todo momento. Incluso durante el mismo. Aparte de los parámetros subjetivos que el usuario pueda indicar, la aplicación recoge una serie de datos totalmente anónimos para comprender mejor las circunstancias que rodean al informe: consumición de CPU y de RAM, tipo de red, localización, fecha, versión de sistema operativo, modelo del dispositivo y de su antena, latencia, intensidad de conexión, velocidad de conexión y packet loss (%) entre otros. Los usuarios son recompensados al enviar sus opiniones con puntos que pueden ser posteriormente canjeados en una tienda con productos que la operadora ofrece. El sistema es fácilmente adaptable a cualquier operadora. La información recogida es luego representada en un dashboard para que la empresa interesada pueda monitorizarla."
+      }
+    }
+
+  },
+  "researchPortfolio": {
+    "1": {
+      "title": "yayOS: Memoria",
+      "inside": {
+        "title":"Desarrollo de una herramienta software orientada a la tercera edad para aprender a usar un ordenador",
+        "date": "1 de Junio de 2021",
+        "resume": "Hasta hace relativamente poco, cosa de un año, considerábamos la transformación de servicios analógicos a digitales como una mejora. Como un capricho, podríamos incluso decir. Bastó una pandemia que restringiese nuestra movilidad y que estableciera el distanciamiento social como principal mecanismo de autodefensa para que dicha opción se convirtiera en una necesidad. Y es lógico, en realidad. Es más seguro hacer cualquier trámite bancario desde el móvil que desde una oficina. Es más seguro comprar por Internet que no en un abarrotado centro comercial. Y, por descontado, es más seguro restringir cualquier trámite a través de una pantalla que no cara a cara con un funcionario. El problema surge cuando esta medida, como muchas otras, no viene acompañada de su correspondiente séquito de contramedidas y planes de contingencia. ¿La consecuencia? El incremento de la brecha digital entre los denominados nativos digitales, aquellos que hemos nacido, crecido y vivido en un mundo rodeado de constantes avances tecnológicos, y de los no tan afortunados inmigrantes digitales, aquellos que han tenido que adaptarse a este cambio y, en definitiva, a un nuevo mundo en el que vivir. En este escrtio se recogen todas las decisiones tomadas, justificaciones y revisiones del proceso de desarrollo de yayOS."
+      }
+    },
+    "2": {
+      "title": "Las aplicaciones de rastreo COVID19 y su privacidad",
+      "inside": {
+        "title":"Las aplicaciones de rastreo COVID19 y su privacidad",
+        "date": "28 de Mayo 2021",
+        "resume": "Radar COVID-19 en España, Corona Warn en Alemania, NHS COVID-19 en el Reino Unido, TousAntiCovid en Francia, Immuni en Italia, Self-quarantine safety protection en Corea del Sur, HaMagen en Israel, Aarogya Setu en la India…. Países distintos, gobiernos distintos, nombres distintos, programadores distintos, lanzamientos distintos, presupuestos distintos y grado de aceptación distintos, pero un mismo objetivo: todas permiten rastrear contactos estrechos positivos por COVID. En este escrito se recoge toda la información referente al estado actual de las aplicaciones de rastreo en el mundo, y más concretamente en España, en las circunstancias pandémicas de la fecha de publicación. A su vez, se analizarán en profundidad los distintos mecanismos de funcionamientos haciendo una distinción principal entre los sistemas centralizados y descentralizados. En base a toda esta información se opinara sobre las razones por las cuales este tipo de aplicaciones cosechan unos resultados de uso tan ínfimos en Europa y, por último, se investigará si son veraces las acusaciones en términos de violación de privacidad del usuario."
+      }
+    }
+  },
+  "content": {
+    "debath": {
+      "h1": "Mi experiencia como integrante",
+      "h2": "en un equipo de debates",
+      "p1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pharetra, velit non pulvinar consequat, quam odio tincidunt nunc, at lacinia lectus dui id massa. Vestibulum in ornare velit, sed faucibus elit. Curabitur interdum magna ac convallis facilisis. Quisque porta posuere placerat. Fusce quis elit justo. Etiam rutrum turpis in faucibus tincidunt. Nam nec orci condimentum, placerat neque et, sollicitudin est. Nullam nec vehicula nibh, id pellentesque metus.",
+      "p2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pharetra, velit non pulvinar consequat, quam odio tincidunt nunc, at lacinia lectus dui id massa. Vestibulum in ornare velit, sed faucibus elit. Curabitur interdum magna ac convallis facilisis. Quisque porta posuere placerat. Fusce quis elit justo. Etiam rutrum turpis in faucibus tincidunt. Nam nec orci condimentum, placerat neque et, sollicitudin est. Nullam nec vehicula nibh, id pellentesque metus.",
+      "sub1": "Know how to listen, know how to speak",
+      "sub2": "All product of a group effort"
+    }
+  },
+  "novel": {
+    "title": "Mis novelas"
+  },
+  "download": "¡Descargar ahora!",
+  "checkgit": "Ver Git",
+  "dwl": "Descargar",
+  "buy": "Leer",
+  "pre": "Avance",
+  "curriculum": "Mi currículum",
+  "tools": "Herramientas:",
+  "L&F": "Lenguajes & Frameworks:"
+}

@@ -1,0 +1,137 @@
+{
+  "topbar": {
+    "linkedin-spam": "Visit my Linkedin!",
+    "email": "victormoraisllahi@gmail.com"
+  },
+  "menu": {
+    "intro": "Intro",
+    "portfolio": "Portfolio",
+    "works": "Works",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "intro": {
+    "first": "Hi there, my name is",
+    "second": "Víctor Morais",
+    "third": "and I'm a ",
+    "textRef": {
+      "1":"Computer engineering student",
+      "2":"Software Developer",
+      "3":"Novel writer",
+      "4":"Videogames and films passionate",
+      "5":"Experienced swimmer"
+    }
+  },
+  "portfolio": {
+    "titles":{
+      "main": "My stuff",
+      "personal": "Personal",
+      "projects": "Involved projects",
+      "research": "Research works",
+      "other": "Other"
+    }
+  },
+  "personalPortfolio": {
+    "1": {
+      "title": "My resume"
+    },
+    "2": {
+      "title": "Debaths"
+    }
+  },
+  "projectsPortfolio": {
+    "1": {
+      "title": "yayOS",
+      "inside": {
+        "title": "yayOS: Interactive web platform for the inclusion of elderly people in new technologies",
+        "summary": "The objective of this TFG is to create a software tool that allows people with no experience in the use of new technologies, mainly older people, to learn to use the most basic aspects of a computer. The digital transition has abandoned this sector of the population, and the effects have been magnified by the pandemic and lockdown.",
+        "text1": "Until relatively recently, about a year ago, we viewed the transformation from analog to digital services as an improvement. As a whim, we might even say. A pandemic that restricted our mobility and established social distancing as the main self-defense mechanism was enough for this option to become a necessity. And it is logical, actually. It is safer to do any banking procedure from your mobile than from an office. It is safer to shop online than not in a crowded mall. And, of course, it is safer to restrict any procedure through a screen than face-to-face with an official. The problem arises when this measure, like many others, is not accompanied by its corresponding entourage of countermeasures and contingency plans. The consequence? The increase in the digital divide between the so-called digital natives, those of us who have been born, raised and lived in a world surrounded by constant technological advances, and the not so fortunate digital immigrants, those who have had to adapt to this change and, in definitively, to a new world in which to live.\n",
+        "text2": "This was my final degree project: the creation of a web application made by and for the elderly. Through a rigorous analysis of the requirements, an interface was established that responded to the needs of this type of user both at a mechanical and visual level, taking into account the possible deterioration or reduction of their sensory capacities. Once implemented, the product underwent a cyclical refactoring process that, again, was made from the feedback obtained from a group of future users of the system. The application introduces basic concepts such as using the keyboard and mouse, managing an email account or searching the Internet, but it also teaches more advanced concepts such as online shopping, making video calls, or using Google. Maps. The system is translated into Catalan, Spanish and English, and consists of a system for publishing comments and sending opinions so that users can suggest changes or improvements to the platform.\n"
+      }
+    },
+    "2": {
+      "title": "Pockles",
+      "inside": {
+        "title": "Pockles: Geosocial Messaging Network",
+        "summary": "Pockles is an Android application that allows users to post messages wherever they want to go so that only nearby users can see them. Start filling the world with Pocks right now! They participated in this group project : Víctor Blanco, Joan Bosch, Pau Dastis, Daniel Palomo, Joan Salvador, Sergio Vázquez and myself. ",
+        "text1": "Pockles is a geosocial messaging application never seen before on the market that facilitates cooperation between users, allowing users to leave messages in different places where they are. When you discover a message while browsing the world, in addition to reading it, you will be able to indicate whether it is useful or to talk to the author through the chat function, making cooperation between users easier. Our app will also benefit local businesses and events that are organized since they can be advertised through the use of 'pocks', which are messages. In short, an application designed to cooperate and have fun with the local community.",
+        "text2": "This mobile application aims to imitate the social networks that we all know by adding a change of perspective and that is that the user can only see what is close to him. It contains all the basic elements of a social network: publishing capacity and reaction, personalization of a profile, addition of friends, chats, the possibility of reporting inappropriate uses and even a gamification system based on achievements that enhances the use of the platform. One of the last added functionalities is a heat map that shows the concentration of messages posted in an area. It can be activated when one zooms out on the map. "
+      }
+     },
+    "3": {
+      "title": "Bouncing Mario",
+      "inside": {
+        "title": "Bouncig Mario",
+        "summary": "Bouncing Mario is an adaptation inspired by the world of Mario Bros of the well-known game QOMP (https://store.steampowered.com/app/1066900/qomp/) which, in turn, is an adaptation of the mythical game of the first generation of PONG consoles (https://es.wikipedia.org/wiki/Pong). This project was made with Unity and, on a personal level, the first fully functional video game that I have created. With the collaboration of Sergio Arcos",
+        "text1": "The game offers a three-dimensional experience of its muse, QOMP. It mimics the mechanics of the game, but completely changing its aesthetics and setting. The game is divided into a series of levels and the player will have to use his ability to overcome them all and face the final level. The game mechanics are very simple since there is only one possible movement, which is to reverse the speed of the ball by pressing SPACEBAR. Good luck! ",
+        "text2": "All aesthetic resources (interaction elements, decorations and backgrounds) were generated using MagicaVoxel, an editor for cubic units or 8-bit voxels. Sounds from the game itself were added as well as tiny particle effects from Unity itself. "
+      }
+    },
+    "4": {
+      "title": "Traffic signal detection algorithm",
+      "inside": {
+        "title": "Traffic sign detection algorithm",
+        "summary": "A traffic sign detector based on the study of the chromatic composition, its circularity and the orientation of the pixels. Project carried out jointly with Pau Dastis.",
+        "text1": "The objective of this practice is to correctly identify a traffic signal present in any input image of a specific database. Although there are only 43 types of signals to recognize, the database contains a subset of almost 40,000 images. The images used for this practice have been extracted from a recording made in a moving vehicle and the photographs have been taken from different angles, distances, backgrounds and even with variations in terms of lighting, color and scale. In order to carry out this project, we extract the characteristics that, in our opinion, appear to be the most discriminating in order, by means of a classifier, to be able to reason and decide to which signal the data that we observe in said descriptors belong. We will use a set of images to train the system and another to test it (the images that we will use to do the test will not have been processed before by the system). a will be developed with the generic MATLAB computer system. ",
+        "text2": "The images are always subjected to the same process. First, the background is eliminated from the calculation of the depths of the image as well as its reliefs. Once the signal is isolated, the four most present colors are perceived and, Based on established limits, labels are assigned that define the primary or secondary color that it is. In this way we avoid the influence of light factors. Finally, a histogram of orientations is developed that defines the shape of the signal and that of the elements that it contains. In this way, the vector of characteristics is obtained that, finally, the system will use to detect what signal it is. "
+      }
+    },
+    "5": {
+      "title": "Hacker News",
+      "inside": {
+        "title": "Recreation of the Hacker News web forum",
+        "summary": "Hacker News is a social news website that focuses on computing and entrepreneurship. The objective of this project was simply to recreate all its functionalities and design. Practice developed together with Víctor Blanco, Marc Bofill and Segio Vázquez. ",
+        "text1": "A university practice that allowed working for the first time with dynamic content such as the publication and reaction to posts and comments, the creation of database and identification management systems and the editing of content uploaded to servers." ,
+        "text2": "Hacker News (sometimes abbreviated as HN) is a social news website that focuses on computing and entrepreneurship. This project is a copy of the real Hacker News both in appearance and functional level. The intention was to recreate a community similar to the early days of Reddit. However, unlike Reddit, where new users can immediately vote both for and against content, Hacker News does not allow users to vote against content. until they have accumulated 501 \"karma\" points. Karma points are calculated as the number of upvotes a given user's content has received minus the number of downvotes."
+      }
+    },
+    "6": {
+      "title": "Quality Of Experience Meter",
+      "inside": {
+        "title": "Quality Of Experience Meter: Analyzing the quality of streaming on mobile phones.",
+        "summary": "Project carried out in collaboration with Telefónica and in which Víctor Blanco, Sergio Vázquez and myself participated. Its objective was to develop a tool that would allow the automatic collection of user experience when viewing streaming content to improve services offered by the operator. ",
+        "text1": "In such a computerized world we are more than used to being asked our opinion about a service we have just used. And I am not just referring to, for example, video calls, customer service surveys or reviews of a purchased product. We find the same feedback requests in non-technological areas such as supermarkets, shops, hotels, gyms and even public transport. All of them, in general, share the same factor and that is that they occur after having tried, bought or used the product in question. Sometimes much later. That gives the user the feeling that sending feedback does not really contribute anything and that their opinion will not improve the system. ",
+        "text2": "The application allows users to send feedback on the quality of their streaming service at all times. Even during it. Apart from the subjective parameters that the user may indicate, the application collects a series of totally anonymous data to better understand the circumstances surrounding the report: CPU and RAM consumption, network type, location, date, operating system version, device and antenna model, latency, connection strength, connection speed, and packet loss (%) among others. Users are rewarded for submitting their opinions with points that can be later exchanged in a store with products that the operator offers. The system is easily adaptable to any operator. The information collected is then represented on a dashboard so that the interested company can monitor it. "
+      }
+    }
+  },
+  "researchPortfolio": {
+    "1": {
+      "title": "yayOS: Memory",
+      "inside": {
+        "title":"Development of a software tool aimed at the elderly to learn to use a computer",
+        "date": "June 1, 2021",
+        "resume": "Until relatively recently, about a year ago, we viewed the transformation from analog to digital services as an improvement. As a whim, we might even say. A pandemic that restricted our mobility and established social distancing as the main self-defense mechanism was enough for this option to become a necessity. And it is logical, actually. It is safer to do any banking procedure from your mobile than from an office. It is safer to shop online than not in a crowded mall. And, of course, it is safer to restrict any procedure through a screen than face-to-face with an official. The problem arises when this measure, like many others, is not accompanied by its corresponding entourage of countermeasures and contingency plans. The consequence? The increase in the digital divide between the so-called digital natives, those of us who have been born, raised and lived in a world surrounded by constant technological advances, and the not so fortunate digital immigrants, those who have had to adapt to this change and, in definitively, to a new world in which to live. This section contains all the decisions made, justifications and reviews of the yayOS development process."
+      }
+    },
+    "2": {
+      "title": "COVID19 Tracking Apps and Privacy",
+      "inside": {
+        "title": "COVID19 tracking apps and Privacy",
+        "date": "May 28, 2021",
+        "resume": "Radar COVID-19 in Spain, Corona Warn in Germany, NHS COVID-19 in the UK, TousAntiCovid in France, Immuni in Italy, Self-quarantine safety protection in South Korea, HaMagen in Israel, Aarogya Setu in India…. Different countries, different governments, different names, different programmers, different launches, different budgets and different levels of acceptance, but the same goal: they all allow to trace positive close contacts for COVID. This writing contains all the information regarding the current state of tracking applications in the world, and more specifically in Spain, in the pandemic circumstances of the date of publication. In turn, the different operating mechanisms will be analyzed in depth, making a main distinction between centralized and decentralized systems. Based on all this information, an opinion will be made on the reasons why this type of applications reap such negligible results of use in Europe and, finally, it will be investigated if the accusations in terms of violation of user privacy are true."
+      }
+    }
+  },
+  "content": {
+    "debath": {
+      "h1": "My experience",
+      "h2": "as a Debate Speaker",
+      "p1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pharetra, velit non pulvinar consequat, quam odio tincidunt nunc, at lacinia lectus dui id massa. Vestibulum in ornare velit, sed faucibus elit. Curabitur interdum magna ac convallis facilisis. Quisque porta posuere placerat. Fusce quis elit justo. Etiam rutrum turpis in faucibus tincidunt. Nam nec orci condimentum, placerat neque et, sollicitudin est. Nullam nec vehicula nibh, id pellentesque metus.",
+      "p2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pharetra, velit non pulvinar consequat, quam odio tincidunt nunc, at lacinia lectus dui id massa. Vestibulum in ornare velit, sed faucibus elit. Curabitur interdum magna ac convallis facilisis. Quisque porta posuere placerat. Fusce quis elit justo. Etiam rutrum turpis in faucibus tincidunt. Nam nec orci condimentum, placerat neque et, sollicitudin est. Nullam nec vehicula nibh, id pellentesque metus.",
+      "sub1" : "Know how to listen, know how to speak",
+      "sub2": "All product of a group effort"
+    }
+  },
+  "novel": {
+    "title": "My novels"
+  },
+  "download": "Download now!",
+  "checkgit": "Check on git",
+  "dwl": "Download",
+  "buy": "Read",
+  "pre": "Preview",
+  "curriculum": "My curriculum",
+  "tools": "Tools:",
+  "L&F": "Languages & Frameworks:"
+}

@@ -1,0 +1,56 @@
+@import "src/global";
+
+
+.menu{
+  width: 300px;
+  height: 100vh;
+  background-color: $mainColor;
+  position: fixed;
+  top: 0;
+  right: -300px;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.5s ease;
+
+  &.active {
+    right: 0;
+  }
+
+  ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 30px;
+    font-weight: 300;
+    color: ghostwhite;
+    width: 60%;
+
+    li{
+      margin: 15px 0px;
+      text-align: center;
+
+        img {
+          box-sizing: border-box; //margen hacia dentro
+          margin-left: 5px;
+          margin-right: 5px;
+          height: 20%;
+          width: 20%;
+          border-radius: 50%;
+
+          &:hover {
+            border: white 2px solid;
+          }
+        }
+      a{
+        font-size: inherit;
+        color:inherit;
+        text-decoration: none;
+      }
+      &:hover{
+        font-weight: 500;
+      }
+    }
+  }
+}
